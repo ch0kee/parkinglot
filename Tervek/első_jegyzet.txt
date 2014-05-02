@@ -1,0 +1,1 @@
+felülnézeti autószimulátor, leparkol n darab parkolóhelyre m darab autót úgy, hogy azok nem ütköznek
